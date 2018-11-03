@@ -10,3 +10,5 @@ If you missed a drama club meeting, check here the next day for a complete overv
 
 {% file src=".gitbook/assets/meeting-3\_-10-2f2-2f18.pdf" caption="Meeting 3: 10/02/18" %}
 
+{% file src=".gitbook/assets/meeting-4\_-october-16-2018.pdf" caption="Meeting 4: 10/16/18" %}
+
