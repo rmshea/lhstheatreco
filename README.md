@@ -3,7 +3,7 @@
 ## Fall Season Tickets
 
 {% hint style="info" %}
-## [Tickets are on sale for Don't Drink the Water!](http://seatyourself.biz/lakewood)
+## [Click here for more information about the Musical, Big Fish!](current-season/big-fish.md)
 {% endhint %}
 
 ![](.gitbook/assets/tix-on-sale.png)

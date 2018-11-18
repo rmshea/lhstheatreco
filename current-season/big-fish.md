@@ -14,6 +14,10 @@ description: Directed by Tami LoSasso
 
 Auditions will be held on **December 13th**. Callbacks will be on **December 14th**.
 
+{% hint style="info" %}
+[Click here to download the audition form. ](https://drive.google.com/open?id=1uplt3DZu4dKMaI6c61xz7WoW0eN-Rnz9)
+{% endhint %}
+
 ### Technical Team
 
 * Director: Tami LoSasso
