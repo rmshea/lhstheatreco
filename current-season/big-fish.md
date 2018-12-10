@@ -49,7 +49,11 @@ Auditions will be held on **December 13th**. Callbacks will be on **December 14t
         post it. But you do have to try the dance</td>
     </tr>
   </tbody>
-</table>### What We're Looking For:
+</table>{% hint style="info" %}
+[Link to Dance Combination Recording](https://drive.google.com/open?id=1EXf_AtYGYfOpXMk9IVYI6OyKGKVAWXuFv-_w6NdTtcI)
+{% endhint %}
+
+### What We're Looking For:
 
 <table>
   <thead>
