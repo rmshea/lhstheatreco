@@ -270,6 +270,10 @@ Auditions will be held on **December 13th**. Callbacks will be on **December 14t
   </tbody>
 </table>### Crews
 
+{% hint style="info" %}
+[Link to Crew Application](https://drive.google.com/file/d/1pmTgp9Dht8RqrhGt6vvPB__BbivG3Kpc/view?usp=sharing) 
+{% endhint %}
+
 | Crew Information: |
 | :--- |
 | Fill out an application available on the callboard beginning December 3 |
