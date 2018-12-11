@@ -14,8 +14,6 @@
   * Musical Auditions - Stage
 * December 14th
   * Musical Callbacks - 3:30-6pm - Choir Room
-* December 17th
-  * ESU Shakespeare Competition - 3:30-4:30 - Stage
 * December 18th
   * Chipotle Fundraiser \(Belmar\) 4-8pm
   * Slam Poetry Night - 6pm - Stage
