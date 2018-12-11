@@ -50,7 +50,7 @@ Auditions will be held on **December 13th**. Callbacks will be on **December 14t
     </tr>
   </tbody>
 </table>{% hint style="info" %}
-[Link to Dance Combination Recording](https://drive.google.com/open?id=1EXf_AtYGYfOpXMk9IVYI6OyKGKVAWXuFv-_w6NdTtcI)
+\*\*\*\*[**Link to Dance Combination Recording**](https://drive.google.com/open?id=1EXf_AtYGYfOpXMk9IVYI6OyKGKVAWXuFv-_w6NdTtcI)\*\*\*\*
 {% endhint %}
 
 ### What We're Looking For:
@@ -314,7 +314,7 @@ Auditions will be held on **December 13th**. Callbacks will be on **December 14t
 
 ### Important Dates
 
-To be announced in the spring.
+December 19th - Big Fish Cast Meeting \(1:30pm\) Stage
 
 ### Calendar
 
@@ -327,8 +327,8 @@ To be announced in the spring.
 **Add to Google Calendar**
 
 {% hint style="info" %}
-[Click here.](https://calendar.google.com/calendar/b/5?cid=M3VtMWF0bTVkaXFpb3BuN3ZpZXZ2bDlsNThAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
+[Click here.](https://calendar.google.com/calendar/embed?src=jeffcoschools.us_g4cpcod34rs8qrt05pr71h2hes%40group.calendar.google.com&ctz=America%2FDenver)
 {% endhint %}
 
-{% embed url="https://calendar.google.com/calendar/embed?src=3um1atm5diqiopn7vievvl9l58%40group.calendar.google.com&ctz=America%2FDenver" %}
+{% embed url="https://calendar.google.com/calendar/embed?src=jeffcoschools.us\_g4cpcod34rs8qrt05pr71h2hes%40group.calendar.google.com&ctz=America%2FDenver" %}
 
