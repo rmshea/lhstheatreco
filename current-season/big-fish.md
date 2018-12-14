@@ -381,15 +381,16 @@ Auditions will be held on **December 13th**. Callbacks will be on **December 14t
 * Choreographer: Angie Dryer
 * Pit Conductor: Bryce Melaragno
 * Vocal Director: Debbie Miller
-* Technical Director: Jace Smykil
-* Stage Manager: TBA
-* Lighting Designer: TBA
+* Technical Director: James Young
+* Stage Manager: Ava Aguliar
+* Assistant Stage Manager: Macie McIlvain, Ari Josue
+* Lighting Designer: Griffyn Seib
 * Sound Designer: TBA
 * Propsmaster: TBA
 * Costume Designers: TBA
 * Makeup Designer: TBA
 * Publicity Lead: TBA
-* Set Design: TBA
+* Set Design: Brandon PT Davis
 
 ### Important Dates
 
