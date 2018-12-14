@@ -3,7 +3,7 @@
 ## Winter
 
 {% hint style="info" %}
-## [Click here for more information about the Musical, Big Fish!](current-season/big-fish.md)
+## [Callbacks for Big Fish are up!](current-season/big-fish.md)
 {% endhint %}
 
 ### Important Dates

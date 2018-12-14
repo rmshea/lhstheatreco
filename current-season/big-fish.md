@@ -8,6 +8,81 @@ description: Directed by Tami LoSasso
 
 > When Edward Bloom becomes ill, his son, William, travels to be with him. William has a strained relationship with Edward because his father has always told exaggerated stories about his life, and William thinks he's never really told the truth. Even on his deathbed, Edward recounts fantastical anecdotes. When William, who is a journalist, starts to investigate his father's tales, he begins to understand the man and his penchant for storytelling.
 
+## Callbacks
+
+**IMPORTANT:   Please pick up your sides from student direct, Kelsey Kasel, at the drama room 5th block or 1st lunch.**  
+
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">
+        <p><b>**All Males read for Don<br /></b>
+        </p>
+        <p><b>Paul Flora (Edward & Will)</b>
+        </p>
+        <p><b>Peter Losasso (Edward & Will & Karl)</b>
+        </p>
+        <p><b>Ryan Porter (Will & Karl & Amos)</b>
+        </p>
+        <p><b>Ryan Shea (Edward & Will)</b>
+        </p>
+        <p><b>Noah Shuster (Will)</b>
+        </p>
+        <p><b>Liam Sibana (Will & Amos)</b>
+        </p>
+        <p><b>Abe Soto (Edward & Karl)</b>
+        </p>
+        <p><b>McAllister Stowel (Will & Amos)</b>
+        </p>
+        <p><b>James Tresco (Will)</b>
+        </p>
+        <p><b>Tibault Wilms (Will & Amos)</b>
+        </p>
+      </th>
+      <th style="text-align:left">
+        <p><b>**All females read Josephine & Jenny<br /></b>
+        </p>
+        <p><b>Annalise Biesterfeld (Sandra)</b>
+        </p>
+        <p><b>Sophie Biesterfeld (Witch & Sandra)</b>
+        </p>
+        <p><b>Clarisse Gionet (Sandra)</b>
+        </p>
+        <p><b>Saige Pierson (Witch)</b>
+        </p>
+        <p><b>Grace Pouliot (Josephine)</b>
+        </p>
+        <p><b>Nadine Rayburn (Sandra)</b>
+        </p>
+        <p><b>Rachel Regalado (Witch & Sandra)</b>
+        </p>
+        <p><b>Shyan Rivera (Witch)</b>
+        </p>
+      </th>
+    </tr>
+  </thead>
+  <tbody></tbody>
+</table>**Callback Songs according to Broadway Soundtrack**  
+  
+
+
+**Edward:  “Be the Hero” start @ 5:00 to end**
+
+    **“How it Ends” start 1:10 to 2:25**  
+
+
+**Sandra:  “I Don’t Need a Roof” start @ beginning to 1:26**  
+
+
+**Will:   “Stranger”  start 2:05 to end**  
+
+
+**Witch:     “I Know What You Want”  start 28 seconds to 1:21**  
+
+
+**Complete cast posting online this weekend!**
+
 ## Information
 
 ### Auditions
